@@ -12,7 +12,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.3.1 // @grafana/grafana-developer-enablement-squad
 	github.com/aws/aws-sdk-go v1.55.7 // @grafana/aws-datasources
 	github.com/docker/docker v28.1.1+incompatible // @grafana/grafana-developer-enablement-squad
-	github.com/drone/drone-cli v1.8.0 // @grafana/grafana-developer-enablement-squad
+	github.com/drone/drone-cli v1.9.0 // @grafana/grafana-developer-enablement-squad
 	github.com/gogo/protobuf v1.3.2 // indirect; @grafana/alerting-backend
 	github.com/google/go-cmp v0.7.0 // @grafana/grafana-backend-group
 	github.com/google/uuid v1.6.0 // indirect; @grafana/grafana-backend-group
